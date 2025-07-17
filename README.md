@@ -49,3 +49,5 @@ I'm a self-driven coder passionate about building real-world applications and sh
 ### ✨ Fun Fact
 > *“Code + Consistency = Career.”*  
 Also... I debug more than I sleep. 😅
+###👴🏾 Note
+> "If it's not good then it's not done."
