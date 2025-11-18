@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Promise Machio
 
 🎯 Aspiring Full-Stack Developer | 📊 Trader in Training | 🌍 Lifelong Learner  
-💻 Python • Java • Flutter • Git • Linux • Emacs  
+💻 Python • Javascript  • Git • Linux • Emacs  
 
 ---
 
 ### 🚀 About Me
 
-I'm a self-driven coder passionate about building real-world applications and sharing my journey online. Currently enrolled in the Power Learn Project, sharpening my software engineering and machine learning skills.
+I'm a self-driven coder passionate about building real-world applications and sharing my journey online. Currently enrolled in the Power Learn Project and doing some upskilling stuffs in FreeCodeCamp, sharpening my software engineering and machine learning skills.
 
 ---
 
 ### 📌 What I'm Working On
 - 🧠 Machine Learning Projects (AI Safari)
-- 🔧 Building personal tools in Python & Flutter
-- 💼 Learning Forex trading strategies
+- 🔧 Building personal tools in Python (Mostly using sreamlit)
+- 💼 Learning and Mastering Fullstack MERN application and user-design model
 - ✍️ Blogging and documenting my learning journey
 
 ---
@@ -50,5 +50,5 @@ I'm a self-driven coder passionate about building real-world applications and sh
 > *“Code + Consistency = Career.”*  
 Also... I debug more than I sleep. 😅
 ---
-###👴🏾 Note
+### 👴🏾 Note
 > "If it's not good then it's not done."
